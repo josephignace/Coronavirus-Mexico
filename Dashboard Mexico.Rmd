@@ -382,7 +382,7 @@ This Coronavirus dashboard: The Case of Mexico provides an overview of the 2019 
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/josephignace/coronavirus_dashboard){target="_blank"}.
+The code behind this dashboard is available on [GitHub](https://github.com/josephignace/coronavirus_dashboard).
 
 **Data**
 
