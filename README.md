@@ -9,7 +9,7 @@ The code behind this dashboard is available on [GitHub](https://github.com/josep
 
 **Data**
 
-The input data for this dashboard is the dataset available from the [`{coronavirus}`](https://github.com/RamiKrispin/coronavirus){target="_blank"} R package. Make sure to download the development version of the package to have the latest data:
+The input data for this dashboard is the dataset available from the [`{coronavirus}`](https://github.com/RamiKrispin/coronavirus) R package. Make sure to download the development version of the package to have the latest data:
 
 ```
 install.packages("devtools")
